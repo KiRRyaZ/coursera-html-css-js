@@ -1,5 +1,5 @@
 Module 2
-https://kirryaz.github.io/coursera-html-css-js/m2-sol/    
+https://kirryaz.github.io/coursera-html-css-js/m2/    
 
 Module 3
 https://kirryaz.github.io/coursera-html-css-js/m3-sol/ 
